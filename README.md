@@ -1,6 +1,6 @@
 # Blitzy
 
-**TODO: Add description**
+**Small load balancing application**
 
 ## Installation
 
